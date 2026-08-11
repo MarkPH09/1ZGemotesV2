@@ -545,6 +545,12 @@ AddEmote("TWICE ABCD by Nayeon", 18933761755)
 AddEmote("Beauty Touchdown", 16303091119)
 AddEmote("Olivia-Rodrigo-Fall-Back-to-Float", 15554016057)
 AddEmote("Victory-Dance", 15506503658)
+AddEmote("Cute-Angry-Idle-Dynamic-Head", 136895816311970)
+AddEmote("Dance-All-Night", 97139559228653)
+AddEmote("Baby-Queen-Dramatic-Bow", 14353419229)
+AddEmote("Cobra-Arms-Tai-Verdes", 7942964447)
+AddEmote("Udzals-Summoning", 3307604888)
+
 
 --finished loading
 Loading:Destroy()
